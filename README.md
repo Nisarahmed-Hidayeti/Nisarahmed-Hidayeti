@@ -39,10 +39,11 @@ Outside of code, I enjoy playing **chess** and solving the **Rubik's Cube** — 
 
 ---
 
-### ♟️ Beyond Code
+### ♟️ Beyond Codeing
 
-- ♟️ Chess player — I enjoy the strategic thinking it demands
-- 🧩 Rubik's Cube solver — a hobby that keeps my pattern-recognition sharp
+- ♟️ Chess player — https://www.chess.com/member/ahmednw06
+- 🧩 Rubik's Cube solver — a hobby
+- 🍿 watching movies films and Tv Series - Rick and morty 🌠
 
 ---
 
