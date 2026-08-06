@@ -4,7 +4,7 @@
 ---
 ## 👋 About Me
 
-Hi! I'm Nisarahmed, a high school student who loves building things with code.
+Hi! I'm Nisarahmed, a high school student who loves building things.
 
 I started programming in 7th grade, mostly by experimenting and teaching myself. One of my first projects was using Arduino to automate parts of my home, and seeing software interact with the real world is what got me interested in embedded systems.Since then, I've explored everything from electronics and Linux to web development and artificial intelligence. I enjoy creating projects that solve real problems and help me learn something new along the way.
 
