@@ -59,7 +59,8 @@ Luxury bakery website
 </td>
 
 <td width="50%">
-
+### 🎂 My personal website
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3748b3aa-2491-4e59-a6a7-0cd6850aa21c" />
 
 </td>
 </tr>
