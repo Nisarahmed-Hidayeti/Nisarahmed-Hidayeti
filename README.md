@@ -22,20 +22,6 @@ Outside of programming, I'm passionate about astronomy, physics, and technology.
 - Built Arduino-based home automation projects
 
 ---
-## 🌐 Web Development
-
-I design and develop modern, responsive websites focused on performance, clean UI, and real business value.
-
-### What I build
-
-- Responsive business websites
-- Landing pages
-- Portfolio websites
-- Product showcases
-- Modern UI/UX
-- Mobile-first design
-- SEO-friendly structure
-- Fast loading websites
 
 ## 🌐 Portfolio
 
